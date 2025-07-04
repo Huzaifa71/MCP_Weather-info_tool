@@ -7,7 +7,7 @@ from mcp.server.fastmcp.prompts import base
 mcp = FastMCP("weather")
 
 # OpenWeatherMap API setup
-API_KEY = "4bb5214674e253741981cebf5c1022ad"  
+API_KEY = "your api key"  
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 USER_AGENT = "pakistan-weather-tool/1.0"
 
