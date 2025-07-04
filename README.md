@@ -15,8 +15,13 @@ A lightweight, async-ready weather tool for Pakistani cities built with [FastMCP
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/pakistan-weather-tool.git
+git clone [https://github.com/<your-username>/pakistan-weather-tool.git](https://github.com/Huzaifa71/MCP_Weather-info_tool.git)
 cd pakistan-weather-tool
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+
+
+## 🚀 Running the MCP Server
+```bash
+mcp dev server/weather.py
